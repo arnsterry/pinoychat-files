@@ -30,9 +30,9 @@
 
 EGGDROP_VER="1.10.1"
 EGGDROP_URL="https://ftp.eggheads.org/pub/eggdrop/source/1.10/eggdrop-${EGGDROP_VER}.tar.gz"
-BT_ZIP_URL="https://bot.pinoychat.fun/BlackTools_authfix_patched.zip"
+BT_ZIP_URL="https://raw.githubusercontent.com/arnsterry/pinoychat-files/main/BlackTools_authfix_patched.zip"
 BT_DIR_NAME="BlackTools-TCL-master"
-AA_ZIP_URL="https://bot.pinoychat.fun/a_and_a_light-0_04_00_ipv6.zip"
+AA_ZIP_URL="https://raw.githubusercontent.com/arnsterry/pinoychat-files/main/a_and_a_light-0_04_00_ipv6.zip"
 
 # -- install package choice: "blacktools" or "aa"
 INSTALL_PACKAGE=""
